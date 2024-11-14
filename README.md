@@ -26,7 +26,7 @@ implementation of <a href="https://www.dynamicmath.xyz/strange-attractors/">chao
 Expanding on the idea of <a href="https://www.youtube.com/watch?v=IqxtpAX8j98">supermarket sallad</a> and implementing other known chaotic attractors
 [work in progress..]
 <h3>Thomas Chaotic Attractor</h3>
-![thomas_td_short](https://github.com/user-attachments/assets/52bc2ff6-597f-4ef0-babd-f9b8b2df95ec)
+https://github.com/user-attachments/assets/52bc2ff6-597f-4ef0-babd-f9b8b2df95ec
 
 
 
