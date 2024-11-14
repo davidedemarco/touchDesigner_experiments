@@ -21,6 +21,26 @@ A collection of experiments made in touchDesigner
 ![SPIKYBOI ICE](https://user-images.githubusercontent.com/24576858/132219378-daf6ddba-fc9b-4804-bcff-d9f8361c4c42.gif)
 
 
+<h2>Chaotic Attractors</h2>
+implementation of <a href="https://www.dynamicmath.xyz/strange-attractors/">chaotic attractors</a> in touchdesigner
+Expanding on the idea of <a href="https://www.youtube.com/watch?v=IqxtpAX8j98">supermarket sallad</a> and implementing other known chaotic attractors
+[work in progress..]
+<h3>Thomas Chaotic Attractor</h3>
+
+
+
+https://github.com/user-attachments/assets/158bd667-7052-4c9f-9f02-550137edd27f
+
+
+
+
+<h3>Lorentz Chaotic Attractor</h3>
+
+
+https://github.com/user-attachments/assets/41848758-ee44-42ca-afd7-49de9c6574a6
+
+
+
 <h2>void</h2>
 Music written by me using <i>VCV Rack 2</i>
 <br>
