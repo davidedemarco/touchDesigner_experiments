@@ -37,7 +37,11 @@ https://github.com/user-attachments/assets/158bd667-7052-4c9f-9f02-550137edd27f
 <h3>Lorentz Chaotic Attractor</h3>
 
 
-https://github.com/user-attachments/assets/41848758-ee44-42ca-afd7-49de9c6574a6
+
+
+https://github.com/user-attachments/assets/aad3591b-68b4-459a-ba94-c42060904dc5
+
+
 
 
 
