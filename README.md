@@ -29,6 +29,10 @@ Expanding on the idea of <a href="https://www.youtube.com/watch?v=IqxtpAX8j98">s
 
 
 
+https://github.com/user-attachments/assets/158bd667-7052-4c9f-9f02-550137edd27f
+
+
+
 
 <h3>Lorentz Chaotic Attractor</h3>
 
