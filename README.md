@@ -29,8 +29,6 @@ Expanding on the idea of <a href="https://www.youtube.com/watch?v=IqxtpAX8j98">s
 https://github.com/user-attachments/assets/978bfd66-6f82-48c2-a723-1ccd61e4100c
 
 
-
-
 <h2>void</h2>
 Music written by me using <i>VCV Rack 2</i>
 <br>
