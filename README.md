@@ -64,7 +64,7 @@ You can download the VCV Rack patch <a href="https://patchstorage.com/generative
 https://user-images.githubusercontent.com/24576858/205918743-888ea142-1070-45d1-8ac4-9b176beb97fd.mp4
 
 <h2> drop painting </h2>
-Inspired by the works of <a href="https://www.instagram.com/holyhima/">Rahima</a>, a friend of mine whose works are way better than mine </br>
+Inspired by the works of <a href="https://www.instagram.com/holyhima/">Rahima</a>, a friend of mine (now girlfriend 😭❤️) whose works are way better than mine </br>
 I was fashinated by the colors of her works and the phisical behaviour of water colors and water drops in general</br>
 clearly my version doesn't compete with the real thing but I had fun experimenting with it!
 
